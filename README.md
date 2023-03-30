@@ -1,2 +1,2 @@
 # proxyscanner
-Fast Proxy Checker To Check Proxy Lists Using Threads In Python3. 
+Fast HTTP/S Proxy Checker To Check Proxy Lists Using Threads In Python3. 
