@@ -1,6 +1,6 @@
 import requests
 import threading
-
+# Usage: python3 checker.py threads
 def check_proxy(proxy):
     try:
         response = requests.get('https://www.google.com/', proxies={'http': proxy, 'https': proxy}, timeout=10)
