@@ -1,2 +1,2 @@
 # proxyscanner
-Fast Proxy Scanner To Scan Proxy Lists Using Threads In Python. 
+Fast Proxy Checker To Check Proxy Lists Using Threads In Python. 
